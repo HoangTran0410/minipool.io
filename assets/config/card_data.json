@@ -1,0 +1,63 @@
+[
+    {
+        "id": "cue_0",
+        "type": "cue"
+    },
+    {
+        "id": "cue_1",
+        "type": "cue"
+    },
+    {
+        "id": "cue_2",
+        "type": "cue",
+        "spriteFrames":8,
+        "intermittentAnimation":true
+    },
+    {
+        "id": "cue_3",
+        "type": "cue",
+        "spriteFrames": 4
+    },
+    {
+        "id": "cue_4",
+        "type": "cue",
+        "spriteFrames": 8,
+        "intermittentAnimation": true
+    },
+    {
+        "id": "cue_5",
+        "type": "cue",
+        "spriteFrames": 8
+    },
+    {
+        "id": "cue_6",
+        "type": "cue",
+        "spriteFrames": 8
+    },
+    {
+        "id": "table_0",
+        "type": "table"
+    },
+    {
+        "id": "table_1",
+        "type": "table",
+        "customTunnelColour": "0x4D1727"
+    },
+    {
+        "id": "table_2",
+        "type": "table",
+        "customTunnelColour": "0x3A1454"
+    },
+    {
+        "id": "table_3",
+        "type": "table"
+    },
+    {
+        "id": "table_4",
+        "type": "table"
+    },
+    {
+        "id": "table_5",
+        "type": "table"
+    }
+]

@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "table_0_cushions.png",
+	"frame": {"x":0,"y":0,"w":1024,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":610},
+	"sourceSize": {"w":1024,"h":610}
+},
+{
+	"filename": "table_1_cushions.png",
+	"frame": {"x":1024,"y":0,"w":1024,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":610},
+	"sourceSize": {"w":1024,"h":610}
+},
+{
+	"filename": "table_2_cushions.png",
+	"frame": {"x":0,"y":610,"w":1024,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":610},
+	"sourceSize": {"w":1024,"h":610}
+},
+{
+	"filename": "table_3_cushions.png",
+	"frame": {"x":1024,"y":610,"w":1024,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":610},
+	"sourceSize": {"w":1024,"h":610}
+},
+{
+	"filename": "table_4_cushions.png",
+	"frame": {"x":0,"y":1220,"w":1024,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":610},
+	"sourceSize": {"w":1024,"h":610}
+},
+{
+	"filename": "table_5_cushions.png",
+	"frame": {"x":1024,"y":1220,"w":1024,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":610},
+	"sourceSize": {"w":1024,"h":610}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture_atlas_3.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b80c5ac95c781132686f88e04d1c8954:b1ca4c7c3ab5c2c6a488579468db69e5:b87986fdd92f2882d179b98624ef4e28$"
+}
+}

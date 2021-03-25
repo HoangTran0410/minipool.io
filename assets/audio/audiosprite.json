@@ -1,0 +1,73 @@
+{
+  "resources": [
+    "../assets/audio/audiosprite.mp3",
+    "../assets/audio/audiosprite.ogg"
+  ],
+  "spritemap": {
+    "ball_hit": {
+      "start": 0,
+      "end": 0.11671201814058957,
+      "loop": false
+    },
+    "click_btn": {
+      "start": 2,
+      "end": 2.1723356009070294,
+      "loop": false
+    },
+    "cue_hit": {
+      "start": 4,
+      "end": 4.166734693877551,
+      "loop": false
+    },
+    "cushion_hit": {
+      "start": 6,
+      "end": 6.184149659863945,
+      "loop": false
+    },
+    "gift_card_swish": {
+      "start": 8,
+      "end": 8.173129251700681,
+      "loop": false
+    },
+    "gift_opens": {
+      "start": 10,
+      "end": 11.959183673469388,
+      "loop": false
+    },
+    "lose_points": {
+      "start": 13,
+      "end": 13.848798185941043,
+      "loop": false
+    },
+    "lose": {
+      "start": 15,
+      "end": 17.510816326530612,
+      "loop": false
+    },
+    "music_match_minibilliard": {
+      "start": 19,
+      "end": 44.57387755102041,
+      "loop": true
+    },
+    "music_minibilliard": {
+      "start": 46,
+      "end": 71.49090702947845,
+      "loop": true
+    },
+    "pocket_add_time": {
+      "start": 73,
+      "end": 74.73467120181405,
+      "loop": false
+    },
+    "pocket": {
+      "start": 76,
+      "end": 76.90435374149659,
+      "loop": false
+    },
+    "win": {
+      "start": 78,
+      "end": 81.08848072562358,
+      "loop": false
+    }
+  }
+}
